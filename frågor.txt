@@ -1,0 +1,14 @@
+* När använder man add respektive commit?
+	add används för att placera filen eller filerna i mitt staging area.
+	commit tar allting från mitt staging area och lägger till det i mitt repository.
+
+* Vad är pull repektive push?
+	pull hämtar data från ett annat repository så att du har samma innehåll lokalt.
+	push är när jag skickar mitt repository till GitHub.
+
+* När använder man log respektive status?
+	log används för att se vilka commits jag gjort i mitt repository.
+	status används för att se om jag har någonting i mitt staging area eller filer som inte lagts till än.
+
+* Hur kan man formulera sig i sina commit-meddelanden?
+	kortfattat och tydligt så att man snabbt och lätt kan se vilka ändringar som gjorts i de olika commitsen.
